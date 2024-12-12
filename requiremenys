@@ -1,0 +1,16 @@
+
+the shooter_tut contains the entire code for the game
+the img folder containd the pixelated forms of the game objects ( player , enemy, ammo) 
+the audio folder contains the action audio
+the tile is the collision objects which provides the platform for the player to walk
+
+u just donwnald the zip fle. 
+to run it.. upload the floder in vs code and check the path the sprites are in the correct folder as specified in the code
+after checking run the shooter_tut.py code
+
+the controlls are as follows 
+W is to move jump 
+A is to move backward
+D is to move forward 
+Space to shoot
+Q to throw a bomb
